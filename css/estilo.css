@@ -174,3 +174,13 @@ a:hover{
     border:solid;
     background-color: rgb(20, 200, 20);
 }
+.sobre{
+    width: 50%;
+    text-align: center;
+    border-radius: 15px 15px 15px 15px;
+    border:  solid rgba(245, 245, 245, 1);
+    margin: 0 auto;
+    padding-top: 30px;
+    padding: 3rem;
+    background: linear-gradient(to bottom, #fff, #f5f5f5);
+}
