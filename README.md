@@ -10,6 +10,5 @@ Footer: Informações de contato e direitos reservados.
 Tecnologias:
 HTML5: Estrutura da página.
 CSS3: Estilos e layout responsivo.
-Como Usar:
-Clone o repositório: git clone https://github.com/thiagoferlima/LandingPageVendas.git
-Abra index.html no navegador.
+abrir site:https://thiagodonwloadpdf.netlify.app/
+Abra no navegador.
